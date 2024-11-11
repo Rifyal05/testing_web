@@ -280,6 +280,10 @@ footer a {
   .container-WhyUs .content-wrap {
     flex-direction: column;
   }
+
+  .container-WhyUs .content-wrap {
+    flex-direction: column;
+  }
   .products{
       width: 110%;
   }
@@ -295,7 +299,11 @@ footer a {
   .container-WhyUs2 {
     flex-direction: column;
   }
-  .container-WhyUs .content-wrapper {
+  .container-WhyUs .content-wrap {
+    flex-direction: column;
+  }
+
+  .container-WhyUs2 .content-wrap {
     flex-direction: column;
   }
   .products{
