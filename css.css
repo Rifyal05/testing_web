@@ -97,7 +97,6 @@ header nav ul a:hover {
   header nav {
     display: flex;
     flex-wrap: wrap;
-    position: fixed;
   }
 
   header nav h1 {
