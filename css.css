@@ -48,10 +48,9 @@ header nav {
   padding-inline: 40px;
   align-items: center;
   width:100cqmax; 
-  /* position: fixed; */
+  position: fixed;
   position: sticky;
   margin: auto;
-  margin-left: -20px;
   padding: 20px;
 }
 /* .nav{
