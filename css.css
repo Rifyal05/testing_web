@@ -152,32 +152,38 @@ header nav ul a:hover {
 }
 
 table {
-  /* max-width: 80%; */
-  margin: 20px auto;
-  border-collapse: collapse;
-  table-layout: auto;
-  display: table;
-  overflow-x: auto; 
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    table-layout: auto;
+    display: table;
+    overflow-x: auto; 
+}
+th:first-child, td:first-child { /* Kolom Layanan */
+  white-space: nowrap;
 }
 
+th:last-child, td:last-child { /* Kolom Biaya Tambahan */
+  white-space: nowrap;
+}
 .tabel-layanan {
-  overflow-x: visible 
+    overflow-x: visible 
 }
 
 tbody tr:hover {
-  background-color: #333; 
+    background-color: #333; 
 }
 
 th, td {
-  border: 1px solid #ddd; 
-  padding: 12px;
-  text-align: justify;
-  white-space: normal; 
+    border: 1px solid #ddd; 
+    padding: 12px;
+    text-align: justify;
+    white-space: normal; 
 }
 
 th {
-  text-align: center;
-  background-color: #282828; 
+    text-align: center;
+    background-color: #282828; 
 }
 
 
