@@ -47,7 +47,7 @@ header nav {
   justify-content: space-between;
   padding-inline: 40px;
   align-items: center;
-  width: 100vw; /* Memenuhi lebar layar */
+  width: 100%; 
   position: fixed;
   /* position: sticky; */
   margin: auto;
