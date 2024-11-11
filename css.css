@@ -53,9 +53,9 @@ header nav {
   margin: auto;
   padding: 20px;
 }
-/* .nav{
-  position: sticky;
-} */
+.nav{
+  position: fixed;
+}
 
 header nav h3 {
   color: white;
