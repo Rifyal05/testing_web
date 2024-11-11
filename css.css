@@ -158,14 +158,12 @@ table {
   margin: 20px auto;
   border-collapse: collapse;
   table-layout: fixed;
-  display: block;
+  display: table;
   overflow-x: auto;
 }
 
 
-.tabel-layanan{
-  overflow-x: visible
-}
+
 tbody tr:hover {
   background-color: #333; 
 }
@@ -307,9 +305,9 @@ footer a {
   .container-WhyUs2 .content-wrap {
     flex-direction: column;
   }
-  .products{
+  /* .products{
       width: 110%;
-  }
+  } */
   .more_product .product-card{
       width: calc(50%-150px);
   }
