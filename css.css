@@ -274,7 +274,7 @@ footer {
 
 footer a {
   color: white;
-  margin: 0 1px;
+  margin: 0 10px;
   /* text-decoration: none; */
 }
 
@@ -477,5 +477,10 @@ footer a {
   .nav h3{
     padding-left: 0px;
     margin-left: -5px;
+  }
+  footer a {
+    color: white;
+    margin: 0 1px;
+    /* text-decoration: none; */
   }
 }
