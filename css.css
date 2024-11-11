@@ -151,19 +151,21 @@ header nav ul a:hover {
   text-align: justify;
 }
 
+/* TABEL */
+
 table {
   width: 80%;
   margin: 20px auto;
   border-collapse: collapse;
-  table-layout: auto;
+  table-layout: fixed;
   display: table;
-  overflow-x: auto; 
+  overflow-x: auto;
 }
 
-.tabel-layanan {
-  overflow-x: visible 
-}
 
+.tabel-layanan{
+  overflow-x: visible
+}
 tbody tr:hover {
   background-color: #333; 
 }
@@ -172,11 +174,13 @@ th, td {
   border: 1px solid #ddd; 
   padding: 12px;
   text-align: justify;
-  white-space: normal; 
+}
+th{
+  text-align: center;
 }
 
+
 th {
-  text-align: center;
   background-color: #282828; 
 }
 
