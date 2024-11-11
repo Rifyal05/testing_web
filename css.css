@@ -463,8 +463,12 @@ footer a {
 
   }
   .img-pelayanan{
-    height: 260px;
+    height: 330px;
     width: 450px;
     margin-top: 10px;
+  }
+  .header-hero{
+    padding: 40px;
+
   }
 }
