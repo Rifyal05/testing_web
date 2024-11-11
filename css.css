@@ -3,7 +3,7 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
   background-color: #181818;
   color: #ffffff; 
   line-height: 1.7;
-  margin-right: 0px;
+  
 }
 
 article {
