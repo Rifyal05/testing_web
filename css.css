@@ -159,7 +159,7 @@ table {
   border-collapse: collapse;
   table-layout: fixed;
   display: block;
-  overflow-x: auto;
+  overflow-x: visible;
 }
 
 
