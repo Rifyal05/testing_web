@@ -154,7 +154,7 @@ header nav ul a:hover {
 /* TABEL */
 
 table {
-  width: 80%;
+  max-width: 80%;
   margin: 20px auto;
   border-collapse: collapse;
   table-layout: fixed;
