@@ -49,7 +49,7 @@ header nav {
   align-items: center;
   width:100cqmax; 
   position: fixed;
-  position: sticky;
+  /* position: sticky; */
   margin: auto;
   padding: 20px;
 }
