@@ -118,6 +118,10 @@ header nav ul a:hover {
   header nav ul.hidden {
     display: none;
   }
+  .fieldset-contact{
+    width: 100%;
+    
+  }
 }
 /* IMAGE */
 .img-boy{
