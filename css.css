@@ -152,18 +152,14 @@ header nav ul a:hover {
 }
 
 table {
-  max-width: 80%;
+  /* max-width: 80%; */
   margin: 20px auto;
   border-collapse: collapse;
   table-layout: auto;
   display: table;
   overflow-x: auto; 
 }
-@media (max-width: 768px) {
-  table {
-      width: 100%;
-  }
-}
+
 .tabel-layanan {
   overflow-x: visible 
 }
