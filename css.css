@@ -2,7 +2,6 @@
 /* HTML, BODY */
 * {
   margin: 0;
-  margin-left: -10px;
   padding: 0;
   box-sizing: border-box;
 }
@@ -48,7 +47,7 @@ header nav {
   justify-content: space-between;
   padding-inline: 40px;
   align-items: center;
-  width: 100%; 
+  width:0cqmax; 
   position: fixed;
   /* position: sticky; */
   margin: auto;
