@@ -90,12 +90,13 @@ header nav ul a:hover {
     color: white;
     font-size: 23px;
     padding-right: 40px;
-    position: fixed;
+
   }
 
   header nav {
     display: flex;
     flex-wrap: wrap;
+    position: fixed;
   }
 
   header nav h1 {
