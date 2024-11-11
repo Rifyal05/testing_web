@@ -51,11 +51,12 @@ header nav {
   position: fixed;
   /* position: sticky; */
   margin: auto;
+  margin-left: -20px;
   padding: 20px;
 }
-.nav{
-  position: fixed;
-}
+/* .nav{
+  position: sticky;
+} */
 
 header nav h3 {
   color: white;
