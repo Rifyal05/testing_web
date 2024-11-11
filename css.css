@@ -49,10 +49,8 @@ header nav {
   align-items: center;
   width: 100vw; 
   position: fixed;
-  /* position: sticky; */
   margin: auto;
-  /* margin-left: -20px; */
-  padding: 20px;
+  padding:20px;
 }
 /* .nav{
   position: sticky;
