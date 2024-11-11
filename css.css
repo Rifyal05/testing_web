@@ -48,9 +48,9 @@ header nav {
   padding-inline: 40px;
   align-items: center;
   width: 100vw; 
-  position: fixed;
   margin: auto;
   padding:20px;
+  position: fixed;
 }
 /* .nav{
   position: sticky;
