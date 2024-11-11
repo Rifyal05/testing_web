@@ -158,8 +158,8 @@ table {
   margin: 20px;
   border-collapse: collapse;
   table-layout: fixed;
-  display: block;
-  overflow-x: visible;
+  /* display: block; */
+  /* overflow-x: visible; */
 }
 
 
