@@ -155,11 +155,11 @@ header nav ul a:hover {
 
 table {
   width: 80%;
-  margin: 20px;
+  margin: 20px auto;
   border-collapse: collapse;
   table-layout: fixed;
   display: block;
-  overflow-x: visible;
+  overflow-x: auto;
 }
 
 
