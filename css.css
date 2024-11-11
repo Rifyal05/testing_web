@@ -51,7 +51,7 @@ header nav {
   position: fixed;
   /* position: sticky; */
   margin: auto;
-  margin-left: -20px;
+  /* margin-left: -20px; */
   padding: 20px;
 }
 /* .nav{
