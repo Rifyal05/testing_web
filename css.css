@@ -471,4 +471,7 @@ footer a {
     padding: 40px;
     padding-top: 30px;
   }
+  .wrap-container h4{
+    margin-bottom: 10px;
+  }
 }
