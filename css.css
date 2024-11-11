@@ -89,7 +89,7 @@ header nav ul a:hover {
     display: flex;
     color: white;
     font-size: 23px;
-    padding-right: 10px;
+    padding-right: 0px;
   }
 
   header nav {
