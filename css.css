@@ -47,7 +47,7 @@ header nav {
   justify-content: space-between;
   padding-inline: 40px;
   align-items: center;
-  width:0cqmax; 
+  width:100cqmax; 
   position: fixed;
   /* position: sticky; */
   margin: auto;
