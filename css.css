@@ -159,7 +159,11 @@ table {
   display: table;
   overflow-x: auto; 
 }
-
+@media (max-width: 768px) {
+  table {
+      width: 100%;
+  }
+}
 .tabel-layanan {
   overflow-x: visible 
 }
