@@ -90,6 +90,7 @@ header nav ul a:hover {
     color: white;
     font-size: 23px;
     padding-right: 40px;
+    position: sticky;
   }
 
   header nav {
