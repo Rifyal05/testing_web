@@ -111,12 +111,17 @@ header nav ul a:hover {
     flex-direction: column;
     width: 100%;
     /* align-items: center; */
-    margin-left: 140px;
+    margin-left: 75x;
     text-align: center;
+    margin-top: 35px;
   }
 
   header nav ul.hidden {
     display: none;
+  }
+
+  .link{
+    margin-top: 300px;
   }
   .fieldset-contact{
     width: 100%;
@@ -184,7 +189,10 @@ th, td {
   border: 1px solid #ddd; 
   padding: 12px;
   text-align: justify;
+  /* width: 60%; */
 }
+
+
 th{
   text-align: center;
 }
@@ -432,6 +440,10 @@ footer a {
 
 @media (max-width: 780px) {
 
+  .products{
+    padding-inline: 20px;
+  }
+
   .ol12{
     text-indent: 0px;
     margin-left: 20px;
@@ -482,5 +494,10 @@ footer a {
     color: white;
     margin: 0 2px;
     /* text-decoration: none; */
+  }
+  th, td {
+    font-size: 14px;
+    /* height: 10px; */
+    /* width: 80%; */
   }
 }
